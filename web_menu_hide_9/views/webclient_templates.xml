@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        
+        <template id="assets_backend_web_menu_hide_9" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+            	<link rel="stylesheet" href="/web_menu_hide_9/static/src/css/base.css"/>
+                <script type="text/javascript" src="/web_menu_hide_9/static/src/js/menu.js"></script>
+            </xpath>
+        </template>
+        
+        
+        <template id="menu_webclient_bootstrap_web_menu_hide_9" inherit_id="web.webclient_bootstrap">
+            <xpath expr="//div[@class='navbar-header']" position="inside">
+                <ul class="ul_toggle_leftmenu">
+                    <li class="btn-link toggle_leftmenu">
+                        <span class="fa fa-exchange fa-2"></span>
+                    </li>
+                </ul>
+            </xpath>
+        </template>
+        
+    </data>
+</openerp>
