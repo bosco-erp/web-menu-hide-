@@ -5,7 +5,7 @@
     'version': '1.0',
     'sequence': 3,
     'summary': 'Web Backend To Blue',
-    'website': 'http://boscosoft.com/',
+    'website': 'http://www.boscosofttech.com/',
     'description': 'Web Menu Hide/Show',
     'author': 'BoscoSoft',
     'depends': [],
