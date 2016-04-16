@@ -1,13 +1,13 @@
 
 {
     'name': 'Web Menu Hide/Show',
-    'category': 'Theme',
+    'category': '',
     'version': '1.0',
     'sequence': 3,
-    'summary': 'Web Backend To Blue',
+    'summary': 'Web Menu Hide/Show',
     'website': 'http://boscosoft.com/',
     'description': 'Web Menu Hide/Show',
-    'author': 'BoscoSoft',
+    'author': 'Boscosoft Technologies Pvt Ltd',
     'depends': [],
     'data': [
         'views/webclient_templates.xml',
